@@ -1,0 +1,45 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Backup/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.aps
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Compiled source
+*.pdb
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Logs
+*.log
+UpgradeLog.htm
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Content — 바이너리 에셋은 Git LFS 쓰거나 통째로 제외 선택 가능
+# 지금은 Content 포함 (텍스처/메시 없으면 용량 적음)
+# Content/
+
+# Package output
+Packages/
+StagedBuilds/
